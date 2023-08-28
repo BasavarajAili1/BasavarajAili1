@@ -22,5 +22,19 @@ Here are some ideas to get you started:
 
 <!-- ----------- TECH STACK SECTION ------------ -->
 
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+<hr>
+
+<!-- ----------- TECH STACK SECTION END------------ -->
+
+<p align="center">
+<a href="https://www.linkedin.com/in/basavaraj-aili-2b495b218/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Basavaraj_linkedIn"/></a> 
+<br>
+<br>
+</p>
+
+
+[linkedin]: https://www.linkedin.com/in/basavaraj-aili-2b495b218/
+[github]:https://github.com/BasavarajAili1
+[gmail]:mailto:basavarajaili515@gmail.com
