@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I am BASAVARAJ 👋
 
+First of all, thanks for visiting my profile. Here, what you should know about me:
 <!--
 **BasavarajAili1/BasavarajAili1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I am a self driven passionate learner who loves to solve problems and write efficient codes.
+- My coding languages: Python, Java
+- I am happy to discuss about: Data Structures and Algorithms, Programming in Python/Java, Computer concepts(Operating Systems,Computer Networking,Databases)
+- I’m currently working on Python and Java Full Stack Development
+
+<!-- ----------- TECH STACK SECTION ------------ -->
+
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+
