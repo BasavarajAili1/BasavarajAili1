@@ -1,28 +1,20 @@
-### Hi there, I am BASAVARAJ 👋
 
+<h1 allign-items: center>Hi there 👋, I am BASAVARAJ </h1>
+
+## First of all, thanks for visiting my profile. Here, what you should know about me:
 First of all, thanks for visiting my profile. Here, what you should know about me:
-<!--
-**BasavarajAili1/BasavarajAili1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- I am a self driven passionate learner who loves to solve problems and write efficient codes.
-- My coding languages: Python, Java
-- I am happy to discuss about: Data Structures and Algorithms, Programming in Python/Java, Computer concepts(Operating Systems,Computer Networking,Databases)
-- I’m currently working on Python and Java Full Stack Development
+😄 I am a self driven passionate learner who loves to solve problems and write efficient codes. </br>
+</br>
+🌱 My coding languages: Java, Pyhon, SQL, C </br>
+</br>
+💬 I am happy to discuss about: Data Structures and Algorithms, Programming in Python/Java, Computer concepts(Operating Systems,Computer Networking,Databases) </br>
+</br>
+🔭 I’m currently working on Python and Java Full Stack Development </br>
 
 <!-- ----------- TECH STACK SECTION ------------ -->
 
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 <hr>
 
