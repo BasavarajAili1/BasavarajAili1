@@ -5,11 +5,11 @@
 
 <ul>
    <li>I'm and Engineering graduate from Jain College of Enginnering & Technology, Hubli</li>
-   <li>I'm passionate about developing web applications, solving coding problems</li>
-   <li>My coding languages: Java, Pyhon, SQL..</li>
+   <li>I'm passionate about developing <strong>web applications</strong>, solving coding problems</li>
+   <li>My coding languages: <strong>Java, Pyhon, SQL</strong>..  </li>
    <li>I am happy to discuss about: Java Programming, Data Structures and Algorithms, Computer concepts like Operating Systems, Computer Networking, Databases</li>
 </ul>
-🔭 I’m currently working on Full stack development to create dynamic web applications. Check my Technical Skill set below.
+🔭 I’m currently working on <strong>Full stack development</strong> to create dynamic web applications. Check my Technical Skill set below.
 </br>
 <br></br>
 <!-- ----------- TECH STACK SECTION ------------ -->
