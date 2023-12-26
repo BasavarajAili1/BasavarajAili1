@@ -1,20 +1,23 @@
 
-<h1 allign-items: center>Hi there 👋, I am BASAVARAJ </h1>
+<h1 allign-items: center>Hi there 👋 </h1>
 
-## Here, what you can know about me:
-Thanks for visiting my profile.
+## Welcome to my GitHub profile !
 
-😄 I am a self driven passionate learner who loves to solve problems and write efficient codes. </br>
+<ul>
+   <li>I'm and Engineering graduate from Jain College of Enginnering & Technology, Hubli</li>
+   <li>I'm passionate about developing web applications, solving coding problems</li>
+   <li>My coding languages: Java, Pyhon, SQL..</li>
+   <li>I am happy to discuss about: Java Programming, Data Structures and Algorithms, Computer concepts like Operating Systems, Computer Networking, Databases</li>
+</ul>
+🔭 I’m currently working on Full stack development to create dynamic web applications. Check my Technical Skill set below.
 </br>
-🌱 My coding languages: Java, Pyhon, SQL, C </br>
-</br>
-💬 I am happy to discuss about: Data Structures and Algorithms, Programming in Python/Java, Computer concepts(Operating Systems,Computer Networking,Databases) </br>
-</br>
-🔭 I’m currently working on Python and Java Full Stack Development </br>
-
+<br></br>
 <!-- ----------- TECH STACK SECTION ------------ -->
-
-   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,django,mysql,html,css,javascript,git,github" />
+  </a>
+</p>
 
 <hr>
 
