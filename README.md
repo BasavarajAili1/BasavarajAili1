@@ -2,7 +2,7 @@
 <h1 allign-items: center>Hi there 👋, I am BASAVARAJ </h1>
 
 ## Here, what you can know about me:
-First of all, thanks for visiting my profile. Here, what you should know about me:
+Thanks for visiting my profile.
 
 😄 I am a self driven passionate learner who loves to solve problems and write efficient codes. </br>
 </br>
