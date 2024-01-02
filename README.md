@@ -11,7 +11,8 @@
 </ul>
 <hr>
 
-<h3>🔭 I’m currently working on <strong>Full stack development</strong> to create dynamic web applications. Check my Technical Skill set below.
+## I’m currently working on Full stack development to create dynamic web applications 🚀
+### 📒 Check my Technical Skill set below
 <!-- ----------- TECH STACK SECTION ------------ -->
    <h4 align="center">👩🏻‍💻 Programming and Markup Languages</h4>
    <p align="center">
