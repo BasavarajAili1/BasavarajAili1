@@ -5,8 +5,8 @@
 
 <ul>
    <li> <h4>🥇 I'm and Engineering graduate from Jain College of Enginnering & Technology, Hubli </h4></li>
-   <li><h4>🎫 I'm passionate about developing <strong>full stack development</strong>, solving coding problems</h4></li>
-   <li><h4>📊 My coding languages: <strong>Java, Pyhon, SQL</strong>.. </h4> </li>
+   <li><h4>🎫 I'm a passionate full stack developer and problem solver</h4></li>
+   <li><h4>📊 My coding languages: Java, Pyhon, SQL.. </h4> </li>
    <li><h4>🧧 I am happy to discuss about: Java Programming, Data Structures and Algorithms, Computer concepts like Operating Systems, Computer Networking, Databases</h4> </li>
 </ul>
 <hr>
