@@ -10,26 +10,39 @@
    <li><h4>🧧 I am happy to discuss about: Java Programming, Data Structures and Algorithms, Computer concepts like Operating Systems, Computer Networking, Databases</h4> </li>
 </ul>
 
-<hr>
-<h3>🔭 I’m currently working on <strong>Full stack development</strong> to create dynamic web applications. Check my Technical Skill set below.</h3>
-</br>
+<h3>🔭 I’m currently working on <strong>Full stack development</strong> to create dynamic web applications. Check my Technical Skill set below.
 <!-- ----------- TECH STACK SECTION ------------ -->
+<hr>
 <h4>👩🏻‍💻 Programming and Markup Languages</h4>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,django,html,css,javascript,php" />
+    <img src="https://skillicons.dev/icons?i=java,python,django,html,css,javascript,php"/>
+  </a>
+</p>
+<h4>👩🏻‍💻 Java Stack</h4>
+<p>
+    <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" height=40px width=40px />
+   <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" height=40px width=40px />
+   <img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" height=40px width=40px />
+   <img src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" height=40px width=40px/>
+   <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" height=40px width=40px />
   </a>
 </p>
 <h4>🗄️ Databases </h4>
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"  height=40px width=40px/>
+   <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png"  height=40px width=40px/>
   </a>
 </p>
 <h4>💻 Software and Tools </h4>
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,eclipse,jupyternotebook" />
+     <img src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png"  height=40px width=40px/>
+     <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png"  height=40px width=40px/>
+     <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"  height=40px width=40px/>
+     <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"  height=40px width=40px/>
+     <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png"  height=40px width=40px/>
+     <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"  height=40px width=40px/>
+     <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"  height=40px width=40px/>
   </a>
 </p>
 <hr>
