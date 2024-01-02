@@ -53,6 +53,12 @@
 <a href="https://www.linkedin.com/in/basavaraj-aili-2b495b218/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Basavaraj_linkedIn"/></a> 
 <br>
 </p>
+<p>
+<a href="mailto:basavarajaili515@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a> 
+<br>
+</p>
+
+
 
 [linkedin]: https://www.linkedin.com/in/basavaraj-aili-2b495b218/
 [github]:https://github.com/BasavarajAili1
