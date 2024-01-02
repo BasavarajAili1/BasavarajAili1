@@ -48,15 +48,16 @@
    <!-- ----------- TECH STACK SECTION END------------ -->
    </p>
    
-## Connect me here !
-<p>
+<p align="center">
+   <h3 align="center">Connect me here !</h3>
+</p>
+<p align="center">
 <a href="https://www.linkedin.com/in/basavaraj-aili-2b495b218/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Basavaraj_linkedIn"/></a> 
 <a href="mailto:basavarajaili515@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a> 
-<br>
-</p>
-<p align:"center">
-<!--    [linkedin]: https://www.linkedin.com/in/basavaraj-aili-2b495b218/
-   [github]:https://github.com/BasavarajAili1 -->
-   <h5>Gmail: basavarajaili515@gmail.com</h5>
 </p>
 
+<p align="center">
+ <!--    [linkedin]: https://www.linkedin.com/in/basavaraj-aili-2b495b218/
+   [github]:https://github.com/BasavarajAili1 -->
+   <b>Gmail: basavarajaili515@gmail.com</h5></b>
+</p>
